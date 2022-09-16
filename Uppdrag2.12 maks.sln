@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uppdrag2.12 maks", "Uppdrag2.12 maks\Uppdrag2.12 maks.csproj", "{70BF6707-0313-49CB-A421-8CCB33B490F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70BF6707-0313-49CB-A421-8CCB33B490F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70BF6707-0313-49CB-A421-8CCB33B490F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70BF6707-0313-49CB-A421-8CCB33B490F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70BF6707-0313-49CB-A421-8CCB33B490F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03A57F8B-03B9-4275-B4A7-4A408C410FA5}
+	EndGlobalSection
+EndGlobal
